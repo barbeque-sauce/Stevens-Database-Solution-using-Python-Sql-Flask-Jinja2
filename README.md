@@ -9,6 +9,6 @@ A database display solution on python using sql queries to retrieve the database
 ![Alt-Text](https://github.com/barbeque-sauce/Stevens-Database-Solution-using-Python-Sql-Flask-Jinja2/blob/master/cmd.png)
 
 * Open a webpage and enter the URL: http://127.0.0.1:5000/instructor_courses
-* The output is an aggregation of the Stevens.db file contents, from the instructor perspective.
+* The output is an aggregation of the Stevens.db file contents, from the instructor/Supervisor perspective.
 
 ![Alt-Text](https://github.com/barbeque-sauce/Stevens-Database-Solution-using-Python-Sql-Flask-Jinja2/blob/master/stevensdb.png)
