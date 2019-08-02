@@ -1,0 +1,40 @@
+body{
+background:url('/static/img/01.jpg')no-repeat center fixed;
+background-size:cover;
+}
+
+table, th, td {
+width:60%;
+margin:auto;
+table-layout:fixed;
+border:1px solid blue;
+text-shadow: 0 0 5px blue,0 0 5px blue,
+             0 0 5px blue,0 0 5px blue,
+             0 0 5px blue,0 0 5px blue,
+             0 0 5px blue,0 0 5px blue;
+text-align:center;
+font-size:30px;
+
+background:black;
+opacity:0.9;
+color:white;
+font-weight:bold;
+margin-top:40px;
+}
+
+
+h2, h3 {
+display: table;
+margin: 10px auto;overflow:hidden;
+text-shadow: 0 0 5px blue,0 0 5px blue,
+             0 0 5px blue,0 0 5px blue,
+             0 0 5px blue,0 0 5px blue,
+             0 0 5px blue,0 0 5px blue;
+padding:5px;
+text-align: center;
+font-size:50px;
+color:white;
+background:black;
+font-weight:bold;
+opacity:0.9;
+}
